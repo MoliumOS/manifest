@@ -43,7 +43,6 @@ Your sources have been sync'd successfully.
   <project name="platform/external/minijail" path="src/aosp/external/minijail" remote="aosp" revision="255a8e2879edb49f395f819e2f8590b40a8284ed" />
   <project name="aosp/platform/system/core/libsync" path="src/aosp/system/libsync" revision="refs/heads/release-R75-12105.B" />
   <project groups="devserver" name="aosp/platform/system/update_engine" path="src/aosp/system/update_engine" revision="refs/heads/release-R75-12105.B" />
-  <project groups="minilayout,firmware" name="chromiumos/overlays/board-overlays" path="src/overlays" revision="refs/heads/release-R75-12105.B" />
   <project name="chromiumos/platform2" path="src/platform2" revision="refs/heads/release-R75-12105.B" />
   <project name="chromiumos/platform/experimental" path="src/platform/experimental" revision="refs/heads/release-R75-12105.B" />
   <project name="chromiumos/platform/assets" path="src/platform/assets" revision="refs/heads/release-R75-12105.B" />
@@ -215,6 +214,5 @@ Your sources have been sync'd successfully.
   <project name="platform/system/keymaster" path="src/aosp/system/keymaster" remote="aosp" revision="fa9924f3959bcd2e162b9edee9c1a7b181563ea0" />
 
   
-  <project name="chromiumos/manifest" path="manifest" revision="refs/heads/release-R75-12105.B" />
 
 </manifest>

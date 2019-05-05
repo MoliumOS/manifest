@@ -1,0 +1,9 @@
+<manifest>
+
+  <include name="full.xml" />
+  <remote name="github" fetch="ssh://git@github.com" revision="release-R75-12105.B" />
+
+  <project name="MoliumOS/manifest" path="manifest" remote="github" />
+  <project groups="minilayout,firmware" name="MoliumOS/board-overlays" path="src/overlays" remote="github" />
+
+</manifest>
