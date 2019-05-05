@@ -43,7 +43,6 @@ Your sources have been sync'd successfully.
   <project name="platform/external/minijail" path="src/aosp/external/minijail" remote="aosp" revision="9b41e654d3dd9d35d3d353848a7ddf315786b544" />
   <project name="aosp/platform/system/core/libsync" path="src/aosp/system/libsync" revision="refs/heads/release-R76-12239.B" />
   <project groups="devserver" name="aosp/platform/system/update_engine" path="src/aosp/system/update_engine" revision="refs/heads/release-R76-12239.B" />
-  <project groups="minilayout,firmware" name="chromiumos/overlays/board-overlays" path="src/overlays" revision="refs/heads/release-R76-12239.B" />
   <project name="chromiumos/platform2" path="src/platform2" revision="refs/heads/release-R76-12239.B" />
   <project name="chromiumos/platform/experimental" path="src/platform/experimental" revision="refs/heads/release-R76-12239.B" />
   <project name="chromiumos/platform/assets" path="src/platform/assets" revision="refs/heads/release-R76-12239.B" />
@@ -116,7 +115,6 @@ Your sources have been sync'd successfully.
   <project name="linux-syscall-support" path="src/third_party/breakpad/src/third_party/lss" revision="a89bf7903f3169e6bc7b8efc10a73a7571de21cf" />
   <project name="chromiumos/third_party/broadcom" path="src/third_party/broadcom" revision="refs/heads/release-R76-12239.B" />
   <project groups="firmware" name="chromiumos/third_party/cbootimage" path="src/third_party/cbootimage" revision="refs/heads/release-R76-12239.B" />
-  <project groups="minilayout,firmware,labtools" name="chromiumos/overlays/chromiumos-overlay" path="src/third_party/chromiumos-overlay" revision="refs/heads/release-R76-12239.B" sync-c="true" />
   <project groups="firmware" name="chromiumos/third_party/coreboot" path="src/third_party/coreboot" revision="refs/heads/release-R76-12239.B" />
   <project groups="firmware" name="chromiumos/third_party/coreboot/blobs" path="src/third_party/coreboot/3rdparty/blobs" revision="refs/heads/release-R76-12239.B" />
   <project name="chromiumos/third_party/cros-adapta" path="src/third_party/cros-adapta" revision="refs/heads/release-R76-12239.B" />
@@ -215,6 +213,5 @@ Your sources have been sync'd successfully.
   <project name="platform/system/keymaster" path="src/aosp/system/keymaster" remote="aosp" revision="058085425b50fedc1f614c3479287337aa129eb7" />
 
   
-  <project name="chromiumos/manifest" path="manifest" revision="refs/heads/release-R76-12239.B" />
 
 </manifest>
