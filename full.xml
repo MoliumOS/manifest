@@ -135,16 +135,7 @@ Your sources have been sync'd successfully.
   <project name="chromiumos/third_party/fwupd" path="src/third_party/fwupd" revision="refs/heads/release-R77-12371.B" />
   <project groups="labtools" name="chromiumos/third_party/hdctools" path="src/third_party/hdctools" revision="refs/heads/release-R77-12371.B" />
   <project name="chromiumos/third_party/huddly-updater" path="src/third_party/huddly-updater" revision="refs/heads/release-R77-12371.B" />
-  <project name="chromiumos/third_party/kernel" path="src/third_party/kernel/v3.8" revision="refs/heads/release-R77-12371.B-chromeos-3.8" />
-  <project name="chromiumos/third_party/kernel" path="src/third_party/kernel/v3.10" revision="refs/heads/release-R77-12371.B-chromeos-3.10" />
-  <project name="chromiumos/third_party/kernel" path="src/third_party/kernel/v3.14" revision="refs/heads/release-R77-12371.B-chromeos-3.14" />
-  <project name="chromiumos/third_party/kernel" path="src/third_party/kernel/v3.18" revision="refs/heads/release-R77-12371.B-chromeos-3.18" />
-  <project name="chromiumos/third_party/kernel" path="src/third_party/kernel/v4.4" revision="refs/heads/release-R77-12371.B-chromeos-4.4" />
-  <project name="chromiumos/third_party/kernel" path="src/third_party/kernel/v4.14" revision="refs/heads/release-R77-12371.B-chromeos-4.14" />
-  <project name="chromiumos/third_party/kernel" path="src/third_party/kernel/v4.14-mistral" revision="refs/heads/release-R77-12371.B-chromeos-4.14-mistral" />
-  <project name="chromiumos/third_party/kernel" path="src/third_party/kernel/v4.14-gw" revision="refs/heads/release-R77-12371.B-chromeos-4.14-gw" />
   <project name="chromiumos/third_party/kernel" path="src/third_party/kernel/v4.19" revision="refs/heads/release-R77-12371.B-chromeos-4.19" />
-  <project name="chromiumos/third_party/kernel" path="src/third_party/kernel/v4.19-lakitu" revision="refs/heads/release-R77-12371.B-chromeos-4.19-lakitu" />
   <project name="chromiumos/third_party/khronos" path="src/third_party/khronos" revision="refs/heads/release-R77-12371.B" />
   <project name="chromiumos/third_party/kvmtool" path="src/third_party/kvmtool" revision="refs/heads/release-R77-12371.B" />
   <project name="apps/libapps" path="src/third_party/libapps" revision="57e23ee011c6c1cfa4335c8f2ba407c8917bf891">
