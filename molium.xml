@@ -1,0 +1,11 @@
+<manifest>
+
+  <include name="full.xml" />
+  <remote name="github" fetch="ssh://git@github.com" revision="release-R81-12871.B" />
+
+  <project name="MoliumOS/manifest" path="manifest" remote="github" />
+  <project name="MoliumOS/board-overlays" path="src/overlays" remote="github" />
+  <project name="MoliumOS/chromiumos-overlay" path="src/third_party/chromiumos-overlay" remote="github" />
+
+</manifest>
+
