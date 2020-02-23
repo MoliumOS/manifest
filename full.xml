@@ -230,6 +230,5 @@ Your sources have been sync'd successfully.
   <project name="platform/system/keymaster" path="src/aosp/system/keymaster" remote="aosp" revision="49dfc58d6c4c66f5d0b0d06f0161da4e602a1293" />
 
   
-  <project name="chromiumos/manifest" path="manifest" revision="refs/heads/release-R80-12739.B" />
 
 </manifest>
